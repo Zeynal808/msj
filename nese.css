@@ -1,0 +1,10 @@
+.message{
+    display: none;
+}
+.message-box{
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    overflow: auto;
+    
+}
